@@ -1,0 +1,10 @@
+predicting breast cancer data and testing which classifiyer preform better (SVC) or (KNN) :
+
+SVC Accuracy is 96.49%
+recall_score=0.96%
+f1-score=0.96
+
+
+KNN Accuracy is 98,2%
+recall_score=0.98%
+f1-score=0.98%
